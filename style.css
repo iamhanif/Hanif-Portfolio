@@ -66,3 +66,19 @@ img {
 .skill p {
     text-align: justify;
 }
+
+.baby-web {
+    border-left: 7px solid tomato;
+    border-radius: 10px;
+    padding-top: 0;
+}
+
+.full-stack {
+    border-left: 7px solid skyblue;
+    border-radius: 10px;
+    padding-top: 0;
+}
+
+footer {
+    text-align: center;
+}
